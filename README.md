@@ -2,7 +2,7 @@
 Flask 網站後端會員登入系統開發
 前端:HTML
 後端:Flask
-雲端:Mongodb
+資料庫:Mongodb
 部屬:Flyio
 
 前端頁面規劃
